@@ -1,9 +1,9 @@
 ---
-title: "Markdown Extra Components"
+title: MSTS
 layout: post
 date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: https://upload.wikimedia.org/wikipedia/en/9/93/Old_Monk_Label.jpg
+headerImage: true
 tag:
 - markdown
 - components
